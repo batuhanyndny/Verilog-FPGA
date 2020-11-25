@@ -1,5 +1,6 @@
-# Verilog-FPGA
-Verilog ve C ile FPGA kodlama calismalarim
+## Seven Segment Display on BASYS3 Board
+
+Any given hex number will be displayed on 7 segment led. Verilog sources are under `sevenSegmentDisplay.srcs` folder.
 
 ## How to run
 
